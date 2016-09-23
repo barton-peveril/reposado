@@ -1,0 +1,2 @@
+#!/bin/bash
+/usr/bin/mfsmount /mnt/MFS -H mfs.barton.ac.uk -o allow_other &
